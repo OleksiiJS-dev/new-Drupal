@@ -1,0 +1,9 @@
+{
+    "name": "user/new-drupal",
+    "autoload": {
+        "psr-4": {
+            "User\\NewDrupal\\": "src/"
+        }
+    },
+    "require": {}
+}
